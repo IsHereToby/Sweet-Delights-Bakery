@@ -63,13 +63,14 @@ body {
     font-family: "Lato";
     font-style: normal;
     font-weight: 400;
-    src: url("../fonts/lato-v24-latin-regular.woff2") format("woff2");
+    src: url("../assets/fonts/lato-v24-latin-regular.woff2") format("woff2");
   }
   @font-face {
     font-family: "PoetsenOne";
     font-style: normal;
     font-weight: 400;
-    src: url("../fonts/poetsen-one-v3-latin-regular.woff2") format("woff");
+    src: url("../assets/fonts/poetsen-one-v3-latin-regular.woff2")
+      format("woff");
   }
 
   @font-face {
@@ -77,28 +78,30 @@ body {
     font-family: "Dancing Script";
     font-style: normal;
     font-weight: 400;
-    src: url("../fonts/dancing-script-v25-latin-regular.woff2") format("woff2");
+    src: url("../assets/fonts/dancing-script-v25-latin-regular.woff2")
+      format("woff2");
   }
   @font-face {
     font-display: swap;
     font-family: "Dancing Script 700";
     font-style: normal;
     font-weight: 700;
-    src: url("../fonts/dancing-script-v25-latin-700.woff2") format("woff2");
+    src: url("../assets/fonts/dancing-script-v25-latin-700.woff2")
+      format("woff2");
   }
   @font-face {
     font-display: swap;
     font-family: "Raleway";
     font-style: normal;
     font-weight: 400;
-    src: url("../fonts/raleway-v34-latin-regular.woff2") format("woff2");
+    src: url("../assets/fonts/raleway-v34-latin-regular.woff2") format("woff2");
   }
   @font-face {
     font-display: swap;
     font-family: "Raleway 700";
     font-style: normal;
     font-weight: 700;
-    src: url("../fonts/raleway-v34-latin-700.woff2") format("woff2");
+    src: url("../assets/fonts/raleway-v34-latin-700.woff2") format("woff2");
   }
   body,
   html {
